@@ -1,0 +1,15 @@
+*.pyc
+/**/*.pyc
+/dist
+/*.egg-info
+/.eggs/
+.project
+.pydevproject
+/.settings/
+venv/
+.idea/
+build
+/aarontest
+node_modules
+.coverage
+demo.py
